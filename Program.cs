@@ -10,6 +10,7 @@ namespace hstructure
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is my repo,c#");
         }
     }
 }
