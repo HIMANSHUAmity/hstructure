@@ -11,7 +11,9 @@ namespace hstructure
         static void Main(string[] args)
         {
             Console.WriteLine("this is my repo,c# ,one more modification");
-            
+            Console.WriteLine("this is my repo,c# ,one more modification");
+            Console.WriteLine("this is my repo,c# ,one more modification");
+
         }
     }
 }
