@@ -13,6 +13,7 @@ namespace hstructure
             Console.WriteLine("this is my repo,c# ,one more modification");
             Console.WriteLine("this is my repo,c# ,one more modification");
             Console.WriteLine("this is my repo,c# ,one more modification");
+            Console.WriteLine("Hello,java!");
 
         }
     }
